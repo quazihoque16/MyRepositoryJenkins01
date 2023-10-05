@@ -18,7 +18,7 @@ import io.cucumber.java.Before;
 
 
 
-public class Login_Functionality_Verification extends ase{
+public class Login_Functionality_Verification extends Base{
 
 	
 	@Given("I am in Landing Home Page")
